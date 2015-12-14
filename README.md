@@ -41,3 +41,15 @@ Upgrades:
 proportional to its size
 - Allow users to "zoom" in on regions of your snowflake
 - Real snowflakes are three-dimensional, so yours should be too!
+
+## Problem 3: Twelve Days of Christmas
+
+Construct a proof that shows that fewer partridges are gifted than "Lords a
+Leaping" in the famous carol "Twelve Days of Christmas."
+
+![Twelve Days of Christmas](images/twelve_days.jpg)
+
+Upgrades:
+
+- Write something that can mechanically prove the theorem
+- Convert derived axioms back into meaningful English
