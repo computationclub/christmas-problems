@@ -53,3 +53,4 @@ Upgrades:
 
 - Write something that can mechanically prove the theorem
 - Convert derived axioms back into meaningful English
+- ~~Real proofs are three-dimensional, so yours should be too!~~
